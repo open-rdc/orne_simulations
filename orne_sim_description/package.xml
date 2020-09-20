@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>orne_sim_description</name>
+  <version>1.0.0</version>
+  <description>3D models of the orne for simulation and visualization</description>
+  <license>BSD 2.0</license>
+  <author email="ambitious0816@gmail.com">taishiyamamoto</author>
+  <maintainer email="ambitious0816@gmail.com">taishiyamamoto</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>urdf</depend>
+  <depend>xacro</depend>
+</package>
