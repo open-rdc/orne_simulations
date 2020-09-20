@@ -20,5 +20,6 @@ roslaunch orne_gazebo orne_box_tsudanuma_world.launch model:=box
 roslaunch orne_gazebo orne_box_tsudanuma_world.launch model:=alpha
 ```
 # TODO
-* add model of orne_beta  
+* add model of orne_beta
+* add model of orne_gamma
 * add 3d lidar
