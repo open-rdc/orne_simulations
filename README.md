@@ -5,7 +5,7 @@
 # build  
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/taishiyamamoto/orne_simulations.git
+git clone https://github.com/open-rdc/orne_simulations.git
 catkin build orne_simulations
 ```
 
