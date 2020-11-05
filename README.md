@@ -12,13 +12,18 @@ catkin build orne_simulations
 # Run
 ## spawn orne_box in the building No.2 3rd floor of CIT
 ```
-roslaunch orne_gazebo orne_box_tsudanuma_world.launch model:=box
+roslaunch orne_gazebo orne_tsudanuma_world.launch model:=box
 ```
 
 ## spawn orne_alpha
 ```
-roslaunch orne_gazebo orne_box_tsudanuma_world.launch model:=alpha
+roslaunch orne_gazebo orne_tsudanuma_world.launch model:=alpha
 ```
+## spawn orne_box
+```
+roslaunch orne_gazebo orne_tsudanuma_world.launch model:=box
+```
+
 # TODO
 * add model of orne_beta
 * add model of orne_gamma
